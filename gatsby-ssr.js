@@ -1,0 +1,1 @@
+export {wrapRootElement} from './src/CartProvider/wrap-root-element'
